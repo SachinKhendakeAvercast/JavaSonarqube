@@ -1,4 +1,4 @@
-package com.avercast.sonarqubedemo;
+package com.in.sonarqubedemo;
 
 //import java.net.URL;
 

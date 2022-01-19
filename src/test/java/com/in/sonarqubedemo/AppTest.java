@@ -1,4 +1,4 @@
-package com.avercast.sonarqubedemo;
+package com.in.sonarqubedemo;
 
 import static org.junit.Assert.assertTrue;
 
