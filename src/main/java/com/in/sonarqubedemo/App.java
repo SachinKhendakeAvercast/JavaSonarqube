@@ -23,6 +23,7 @@ public class App {
 		} finally {
 			for (int i = 0; i < 10; i++) {
 				// ...
+				int q = 0;
 				if (q == i) {
 					break; // ignored
 				}
